@@ -17,6 +17,7 @@ KOSOVNICA:
 - 1x mppt charge controller 18 v       https://a.aliexpress.com/_EH76ZsS
 - 1x boost converter                   https://a.aliexpress.com/_Ev8sKLp
 - 1x bms 1s za baterijo                https://a.aliexpress.com/_EJhuM38
+- 1x usb fast charge modul             https://a.aliexpress.com/_EI1u6Ka
 - 4x fotoupor 5516                     https://a.aliexpress.com/_EzRV2TM
 - 1x kontakti                          https://a.aliexpress.com/_Ex5KoGA
 - 1x nosilec baterije                  https://a.aliexpress.com/_EykRIGO
