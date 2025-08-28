@@ -1,10 +1,10 @@
 # Pametna solarna rožica
 Projekt vključuje izvorne datoteke in programsko kodo za projekt *Pametna solarna rožica* iz Poletne šole strojništva 2025.
-Gre za napravo, ki sledi soncu za optimalni izkoristek sončnih celic na vrhu. Rožica vključuje baterijo in vezje za hitro polnjenje telefona.
+Gre za napravo, ki sledi soncu za optimalni izkoristek sončnih celic na vrhu. Rožica vključuje baterijo in vezje za hitro polnjenje mobilnega telefona.
 Projekt vključuje:
 
 * STEP datoteke sestavnih delov
-* Altium in gerber datoteke tiskanega vezja
+* Altium in gerber datoteke tiskanin
 * programsko kodo
 * tabelo vseh sestavnih delov (BOM)
 
@@ -38,3 +38,7 @@ POTREBNA ORODJA:
 * spajkalnik in spajka
 * pištolica na vroče lepilo ali sekundno lepilo
 * vrtalnik in sveder 8 mm
+
+OPOMBE:
+Za pripravo datotek na 3D tisk se priporoča uporaba slicerja PrusaSlicer, saj lahko direktno uvozi step datoteke.
+Za naročilo obeh tiskanih se priporoča JLCPCB zaradi nizke cene in hitre dostave.
