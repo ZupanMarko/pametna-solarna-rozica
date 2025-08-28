@@ -33,7 +33,7 @@ KOSOVNICA:
 - 3x silikonska samolepilna nogica
 
 POTREBNA ORODJA:
-3D tiskalnik in 0,3 kg PLA ali podobnega filamenta
-spajkalnik in spajka
-pištolica na vroče lepilo ali sekundno lepilo
-vrtalnik in sveder 8 mm
+* 3D tiskalnik in 0,3 kg PLA ali podobnega filamenta
+* spajkalnik in spajka
+* pištolica na vroče lepilo ali sekundno lepilo
+* vrtalnik in sveder 8 mm
