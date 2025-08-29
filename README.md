@@ -3,8 +3,8 @@ Projekt vključuje izvorne datoteke in programsko kodo za projekt *Pametna solar
 Gre za napravo, ki sledi soncu za optimalni izkoristek sončnih celic na vrhu. Rožica vključuje baterijo in vezje za hitro polnjenje mobilnega telefona.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a3a3a2fd-c664-480c-b5bd-be5128690955" width="300" />
-  <video src="https://github.com/user-attachments/assets/c149758f-b2a8-4514-8fbe-24bb865d2cd1" width="300" controls></video>
+  <img src="https://github.com/user-attachments/assets/a3a3a2fd-c664-480c-b5bd-be5128690955" width="300" style="display:inline-block; vertical-align:middle;"/>
+  <video src="https://github.com/user-attachments/assets/c149758f-b2a8-4514-8fbe-24bb865d2cd1" width="300" controls style="display:inline-block; vertical-align:middle;"></video>
 </p>
 
 Projekt vključuje:
