@@ -4,6 +4,8 @@ Gre za napravo, ki sledi soncu za optimalni izkoristek sončnih celic na vrhu. R
 
 <img width="433" height="277" alt="PXL_20250829_074305966-removebg-preview" src="https://github.com/user-attachments/assets/a3a3a2fd-c664-480c-b5bd-be5128690955" />
 
+https://github.com/user-attachments/assets/c149758f-b2a8-4514-8fbe-24bb865d2cd1
+
 Projekt vključuje:
 
 * STEP datoteke sestavnih delov
