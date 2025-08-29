@@ -1,6 +1,10 @@
 # Pametna solarna rožica
 Projekt vključuje izvorne datoteke in programsko kodo za projekt *Pametna solarna rožica* iz Poletne šole strojništva 2025.
 Gre za napravo, ki sledi soncu za optimalni izkoristek sončnih celic na vrhu. Rožica vključuje baterijo in vezje za hitro polnjenje mobilnega telefona.
+
+<img width="433" height="576" alt="PXL_20250829_074305966-removebg-preview" src="https://github.com/user-attachments/assets/28ff7a89-f5ef-4ace-983a-c6b11e0e36c4" />
+
+
 Projekt vključuje:
 
 * STEP datoteke sestavnih delov
