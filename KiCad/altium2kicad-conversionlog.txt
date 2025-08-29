@@ -1,0 +1,36 @@
+Archive:  db/49145.zip
+  inflating: db/49145/glavni_Fastcharge.PcbDoc  
+  inflating: db/49145/sencnik.PcbDoc  
+  inflating: db/49145/Solarna rozica.PrjPcb  
+Loading glavni_Fastcharge.PcbDoc
+
+Loading sencnik.PcbDoc
+
+Done.
+Handling glavni_Fastcharge-PcbDoc/Root Entry/Board6/Data.dat
+ASCII-glavni_Fastcharge-PcbDoc.PcbDoc exists?
+Writing to glavni_Fastcharge-PcbDoc/Root Entry/Board6/Data.dat.txt
+Writing to glavni_Fastcharge-PcbDoc/Root Entry/UniqueIDPrimitiveInformation/Data.dat.txt
+Writing to glavni_Fastcharge-PcbDoc/Root Entry/Rules6/Data.dat.txt
+Writing to glavni_Fastcharge-PcbDoc/Root Entry/Classes6/Data.dat.txt
+Writing PCB to glavni_Fastcharge-PcbDoc.kicad_pcb
+Pads6...
+Writing to glavni_Fastcharge-PcbDoc/Root Entry/Arcs6/Data.dat.txt
+Writing to glavni_Fastcharge-PcbDoc/Root Entry/Vias6/Data.dat.txt
+Writing to glavni_Fastcharge-PcbDoc/Root Entry/Tracks6/Data.dat.txt
+Writing to glavni_Fastcharge-PcbDoc/Root Entry/FileVersionInfo/Data.dat.txt
+Texts6...
+Handling sencnik-PcbDoc/Root Entry/Board6/Data.dat
+ASCII-sencnik-PcbDoc.PcbDoc exists?
+Writing to sencnik-PcbDoc/Root Entry/Board6/Data.dat.txt
+Writing to sencnik-PcbDoc/Root Entry/UniqueIDPrimitiveInformation/Data.dat.txt
+Writing to sencnik-PcbDoc/Root Entry/Rules6/Data.dat.txt
+Writing to sencnik-PcbDoc/Root Entry/Classes6/Data.dat.txt
+Writing PCB to sencnik-PcbDoc.kicad_pcb
+Pads6...
+Writing to sencnik-PcbDoc/Root Entry/Arcs6/Data.dat.txt
+Writing to sencnik-PcbDoc/Root Entry/Tracks6/Data.dat.txt
+Writing to sencnik-PcbDoc/Root Entry/FileVersionInfo/Data.dat.txt
+Texts6...
+Handling glavni_Fastcharge-PcbDoc/Root Entry/FileHeader.dat
+Handling sencnik-PcbDoc/Root Entry/FileHeader.dat
