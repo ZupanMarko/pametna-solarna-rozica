@@ -13,6 +13,10 @@ Projekt vključuje:
 * programsko kodo
 * tabelo vseh sestavnih delov (BOM)
 
+<p align="center">
+  <img width="701" height="321" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/b4c9a9f2-9e1e-4e2e-b3d8-ecc90a78dad8" />
+</p>
+
 # Kosovnica
 
 | Količina | Naziv                          | Tip / specifikacija                 | Opombe                                   | Povezava |
